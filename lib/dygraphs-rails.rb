@@ -1,0 +1,1 @@
+require 'dygraphs/rails'
